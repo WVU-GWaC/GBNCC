@@ -1,0 +1,106 @@
+<title>GBNCC Discoveries</title>
+
+<center><h2>GBNCC Discoveries (64 total, 9 MSPs)</h2></center>
+<font size="4">
+
+
+<table border='1' align='right'>
+<tr align='center'><td>#</td><td>Pulsar</td><td>P(ms)</td><td>DM</td><td>Single Pulse</td><td>Discovered by:</td></tr>
+<tr><td>1</td><td><a href='J1816+45.fft.png'>J1816+45</a></td><td>3.19</td><td>38.9</td><td>None</td><td>ARCC</td></tr>
+<tr><td>2</td><td><a href='J2243+69.fft.png'>J2243+69</a></td><td>855</td><td>68</td><td>None</td><td>ARCC</td></tr>
+<tr><td>3</td><td><a href='J1647+66.fft.png'>J1647+66</a></td><td>1599</td><td>22</td><td><a href='J1647+66.single.png'>J1647+66</a></td><td>ARCC</td></tr>
+<tr><td>4</td><td><a href='J2316+69.fft.png'>J2316+69</a></td><td>813</td><td>71</td><td><a href='J2316+69.single.png'>J2316+69</a></td><td>ARCC</td></tr>
+<tr><td>5</td><td><a href='J1921+42.fft.png'>J1921+42</a></td><td>595</td><td>53</td><td><a href='J1921+42.single.png'>J1921+42</a></td><td>ARCC</td></tr>
+<tr><td>6</td><td><a href='J0216+52.fft.png'>J0216+52</a></td><td>24.5</td><td>22</td><td>None</td><td>ARCC</td></tr>
+<tr><td>7</td><td><a href='J0645+51.fft.png'>J0645+51</a></td><td>8.85</td><td>18.2</td><td>None</td><td>ARCC</td></tr>
+<tr><td>8</td><td><a href='J2353+85.fft.png'>J2353+85</a></td><td>1011</td><td>38.3</td><td>None</td><td>ARCC</td></tr>
+<tr><td>9</td><td><a href='J1432+72.fft.png'>J1432+72</a></td><td>41.7</td><td>12.6</td><td>None</td><td>ARCC</td></tr>
+<tr><td>10</td><td><a href='J1942+81.fft.png'>J1942+81</a></td><td>203</td><td>40.2</td><td>None</td><td>ARCC</td></tr>
+<tr><td>11</td><td><a href='J0053+69.fft.png'>J0053+69</a></td><td>832</td><td>117</td><td></td><td>ARCC</td></tr>
+<tr><td>12</td><td><a href='J1815+55.fft.png'>J1815+55</a></td><td>427</td><td>59</td><td></td><td>McGill</td></tr>
+<tr><td>13</td><td><a href='J2122+54.fft.png'>J2122+54</a></td><td>139</td><td>32</td><td></td><td>McGill</td></tr>
+<tr><td>14</td><td><a href='J1935+52.fft.png'>J1935+52</a></td><td>568</td><td>71</td><td><a href='J1935+52.single.png'>J1935+52</a></td><td>McGill</td></tr>
+<tr><td>15</td><td><a href='J0213+52.fft.png'>J0213+52</a></td><td>376</td><td>38</td><td></td><td>McGill</td></tr>
+<tr><td>16</td><td><a href='J1800+50.fft.png'>J1800+50</a></td><td>578</td><td>23</td><td><a href='J1800+50.single.png'>J1800+50</a></td><td>McGill</td></tr>
+<tr><td>17</td><td><a href='J1710+49.fft.png'>J1710+49</a></td><td>3.22</td><td>7.1</td><td></td><td>McGill</td></tr>
+<tr><td>18</td><td><a href='J0058+49.fft.png'>J0058+49</a></td><td>996</td><td>67</td><td></td><td>McGill</td></tr>
+<tr><td>19</td><td><a href='J1629+43.fft.png'>J1629+43</a></td><td>181</td><td>7.3</td><td></td><td>McGill</td></tr>
+<tr><td>20</td><td><a href='J0519+54.fft.png'>J0519+54</a></td><td>340</td><td>43</td><td></td><td>ARCC</td></tr>
+<tr><td>21</td><td><a href='J0636+51.fft.png'>J0636+51</a></td><td>2.86</td><td>11.1</td><td></td><td>ARCC</td></tr>
+<tr><td>22</td><td><a href='J0358+42.fft.png'>J0358+42</a></td><td>226</td><td>46</td><td></td><td>McGill</td></tr>
+<tr><td>23</td><td><a href='J0740+41.fft.png'>J0740+41</a></td><td>3.14</td><td>21</td><td></td><td>McGill</td></tr>
+<tr><td>24</td><td><a href='J0943+41.fft.png'>J0943+41</a></td><td>2230</td><td>21</td><td><a href='J0943+41.single.png'>J0943+41</a></td><td>McGill</td></tr>
+<tr><td>25</td><td><a href='J0510+38.fft.png'>J0510+38</a></td><td>76.5</td><td>69</td><td></td><td>McGill</td></tr>
+<tr><td>26</td><td><a href='J2207+40.fft.png'>J2207+40</a></td><td>637</td><td>11.6</td><td></td><td>McGill</td></tr>
+<tr><td>27</td><td><a href='J1954+43.fft.png'>J1954+43</a></td><td>1387</td><td>130</td><td></td><td>McGill</td></tr>
+<tr><td>28</td><td><a href='J1941+43.fft.png'>J1941+43</a></td><td>841</td><td>79</td><td></td><td>McGill</td></tr>
+<tr><td>29</td><td><a href='J0610+37.fft.png'>J0610+37</a></td><td>444</td><td>39</td><td></td><td>McGill</td></tr>
+<tr><td>30</td><td><a href='J1821+41.fft.png'>J1821+41</a></td><td>1262</td><td>40</td><td><a href='J1821+41.single.png'>J1821+41</a></td><td>McGill</td></tr>
+<tr><td>31</td><td><a href='J0614+83.fft.png'>J0614+83</a></td><td>1039</td><td>44</td><td><a href='J0614+83.single.png'>J0614+83</a></td><td>McGill</td></tr>
+<tr><td>32</td><td><a href='J1649+80.fft.png'>J1649+80</a></td><td>2.02</td><td>31</td><td></td><td>McGill</td></tr>
+<tr><td>33</td><td><a href='J2001+42.fft.png'>J2001+42</a></td><td>719</td><td>55</td><td></td><td>McGill</td></tr>
+<tr><td>34</td><td><a href='J1122+78.fft.png'>J1122+78</a></td><td>4.20</td><td>11.2</td><td></td><td>McGill</td></tr>
+<tr><td>35</td><td><a href='J0325+67.fft.png'>J0325+67</a></td><td>1365</td><td>65</td><td></td><td>McGill</td></tr>
+<tr><td>36</td><td><a href='J1627+86.fft.png'>J1627+86</a></td><td>396</td><td>47</td><td></td><td>McGill</td></tr>
+<tr><td>37</td><td><a href='J0737+69.fft.png'>J0737+69</a></td><td>6824</td><td>16</td><td><a href='J0737+69.single.png'>J0737+69</a></td><td>McGill</td></tr>
+<tr><td>38</td><td><a href='J1953+67.fft.png'>J1953+67</a></td><td>8.57</td><td>57</td><td></td><td>McGill</td></tr>
+<tr><td>39</td><td><a href='J2027+74.fft.png'>J2027+74</a></td><td>515</td><td>11</td><td></td><td>McGill</td></tr>
+<tr><td>40</td><td><a href='J1859+76.fft.png'>J1859+76</a></td><td>1394</td><td>47</td><td></td><td>McGill</td></tr>
+<tr><td>41</td><td><a href='J0338+66.fft.png'>J0338+66</a></td><td>1762</td><td>67</td><td></td><td>McGill</td></tr>
+<tr><td>42</td><td><a href='J0357+66.fft.png'>J0357+66</a></td><td>91.5</td><td>62</td><td></td><td>McGill</td></tr>
+<tr><td>43</td><td><a href='J1939+66.fft.png'>J1939+66</a></td><td>22.2</td><td>41</td><td></td><td>McGill</td></tr>
+<tr><td>44</td><td><a href='J0741+66.fft.png'>J0741+66</a></td><td>2.88</td><td>15</td><td></td><td>McGill</td></tr>
+<tr><td>45</td><td><a href='J0746+66.fft.png'>J0746+66</a></td><td>407</td><td>28</td><td><a href='J0746+66.single.png'>J0746+66</a></td><td>McGill</td></tr>
+<tr><td>46</td><td><a href='J2137+64.fft.png'>J2137+64</a></td><td>1751</td><td>106</td><td></td><td>McGill</td></tr>
+<tr><td>47</td><td><a href='J2228+64.fft.png'>J2228+64</a></td><td>1893</td><td>194</td><td></td><td>McGill</td></tr>
+<tr><td>48</td><td><a href='J0136+63.fft.png'>J0136+63</a></td><td>718</td><td>286</td><td><a href='J0136+63.single.png'>J0136+63</a></td><td>McGill</td></tr>
+<tr><td>49</td><td><a href='J0112+66.fft.png'>J0112+66</a></td><td>4301</td><td>112</td><td></td><td>McGill</td></tr>
+<tr><td>50</td><td><a href='J1101+65.fft.png'>J1101+65</a></td><td>3631</td><td>19</td><td><a href='J1101+65.single.png'>J1101+65</a></td><td>McGill</td></tr>
+<tr><td>51</td><td><a href='J1320+67.fft.png'>J1320+67</a></td><td>1029</td><td>28</td><td></td><td>McGill</td></tr>
+<tr><td>52</td><td><a href='J2205+62.fft.png'>J2205+62</a></td><td>323</td><td>167</td><td></td><td>McGill</td></tr>
+<tr><td>53</td><td><a href='J0125+62.fft.png'>J0125+62</a></td><td>1708</td><td>118</td><td></td><td>McGill</td></tr>
+<tr><td>54</td><td><a href='J0645+80.fft.png'>J0645+80</a></td><td>658</td><td>50</td><td></td><td>McGill</td></tr>
+<tr><td>55</td><td><a href='J2017+59.fft.png'>J2017+59</a></td><td>403</td><td>61</td><td></td><td>McGill</td></tr>
+<tr><td>56</td><td><a href='J1706+59.fft.png'>J1706+59</a></td><td>1477</td><td>31</td><td></td><td>McGill</td></tr>
+<tr><td>57</td><td><a href='J1110+58.fft.png'>J1110+58</a></td><td>793</td><td>26</td><td></td><td>McGill</td></tr>
+<tr><td>58</td><td><a href='J0749+57.fft.png'>J0749+57</a></td><td>1175</td><td>27</td><td></td><td>McGill</td></tr>
+<tr><td>59</td><td><a href='J1922+58.fft.png'>J1922+58</a></td><td>530</td><td>53</td><td></td><td>McGill</td></tr>
+<tr><td>60</td><td><a href='J2210+57.fft.png'>J2210+57</a></td><td>2057</td><td>189</td><td></td><td>McGill</td></tr>
+<tr><td>61</td><td><a href='J1911+37.fft.png'>J1911+37</a></td><td>851</td><td>72</td><td></td><td>McGill</td></tr>
+<tr><td>62</td><td><a href='J0417+61.fft.png'>J0417+61</a></td><td>440</td><td>71</td><td></td><td>UTB</td></tr>
+<tr><td>63</td><td><a href='J1929+62.fft.png'>J1929+62</a></td><td>1456</td><td>67</td><td></td><td>McGill (CyberSKA)</td></tr>
+<tr><td>64</td><td><a href='J2113+67.fft.png'>J2113+67</a></td><td>552</td><td>54</td><td></td><td>McGill (CyberSKA)</td></tr>
+
+</table>
+
+<p>
+The Green Bank North Celestial Cap (GBNCC) pulsar survey is the first stage of a 350MHz all-sky pulsar survey using
+the Robert C. Byrd Green Bank Telescope in West Virginia. This stage covered the entire sky north of 38&deg;. Data
+taking for the first stage began in 2009 and completed in 2011. The second stage will cover the rest of the GBT
+visible sky and we began taking data in 2012.
+<p>
+Processing of the GBNCC data began in 2011. To date, we have found 64 new pulsars with 9 of them being MSPs. Below are
+sky plots showing our discoveries. The gray dots represent known pulsars from the ATNF pulsar database, while the yellow/orange
+dots are our discoveries.
+
+<p>
+The collaboration includes members from 
+<a href=http://www.mcgill.ca>McGill University</a>, 
+<a href=http://www.nrao.edu>National Radio Astronomy Observatory</a>, 
+<a href=http://www.uva.nl/start/cfm>Universiteit van Amsterdam</a>, 
+<a href=http://www.ubc.ca>University of British Columbia</a>, 
+<a href=http://www.virginia.edu>University of Virginia</a>, 
+<a href=http://www.utb.edu>University of Texas at Brownsville</a>, 
+and <a href=http://www.wvu.edu>West Virginia University</a>.
+
+<p>
+<h3>Publications:</h3>
+<b>Discovery of the Optical/Ultraviolet/Gamma-Ray Counterpart to the Eclipsing Millisecond Pulsar J1816+4510</b><br>
+Kaplan, D. L.; Stovall, K.; Ransom, S. M.; Roberts, M. S. E.; Kotulla, R.; Archibald, A. M.; Biwer, C. M.; Boyles, J.; Dartez, L.; Day, D. F.; Ford, A. J.; Garcia, A.; Hessels, J. W. T.; Jenet, F. A.; Karako, C.; Kaspi, V. M.; Kondratiev, V. I.; Lorimer, D. R.; Lynch, R. S.; McLaughlin, M. A.; Rohr, M. D. W.; Siemens, X.; Stairs, I. H.; van Leeuwen, J.<br>
+The Astrophysical Journal, Volume 753, Issue 2, article id. 174 (2012)<br>
+
+<img src="gbncc_ra_dec_plot.png">
+
+<img src="gbncc_glong_glat_plot.png">
+</font>
+</html>

@@ -1,0 +1,21 @@
+nohup: ignoring input
+/usr/lib/pymodules/python2.7/matplotlib/projections/geo.py:485: RuntimeWarning: invalid value encountered in arcsin
+  theta = np.arcsin(y / np.sqrt(2))
+Found 124852 potential pointings total
+2015:  Found 8644 pointings
+2014:  Found 18150 pointings
+2013:  Found 5979 pointings
+2012:  Found 10950 pointings
+2011:  Found 6853 pointings
+2010:  Found 16820 pointings
+2009:  Found 6143 pointings
+Found 73539 unique pointings in total.
+Pulsars discovered:113
+Normal pulsars discovered:90
+MSPs discovered:12
+RRATs discovered:11
+Found 73539 unique pointings in total.
+Pulsars discovered:113
+Normal pulsars discovered:90
+MSPs discovered:12
+RRATs discovered:11
